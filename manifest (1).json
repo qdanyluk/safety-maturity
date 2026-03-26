@@ -1,0 +1,22 @@
+{
+  "name": "Safety Culture Maturity Model",
+  "short_name": "Safety Maturity",
+  "description": "Evidence-based safety culture maturity model",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a1d23",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
